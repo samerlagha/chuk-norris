@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/samerlagha/chuk-norris/static/css/main.6526c35d.chunk.css",
+    "main.js": "/samerlagha/chuk-norris/static/js/main.cac1779e.chunk.js",
+    "main.js.map": "/samerlagha/chuk-norris/static/js/main.cac1779e.chunk.js.map",
+    "runtime-main.js": "/samerlagha/chuk-norris/static/js/runtime-main.a2553245.js",
+    "runtime-main.js.map": "/samerlagha/chuk-norris/static/js/runtime-main.a2553245.js.map",
+    "static/js/2.072f30cc.chunk.js": "/samerlagha/chuk-norris/static/js/2.072f30cc.chunk.js",
+    "static/js/2.072f30cc.chunk.js.map": "/samerlagha/chuk-norris/static/js/2.072f30cc.chunk.js.map",
+    "index.html": "/samerlagha/chuk-norris/index.html",
+    "static/css/main.6526c35d.chunk.css.map": "/samerlagha/chuk-norris/static/css/main.6526c35d.chunk.css.map",
+    "static/js/2.072f30cc.chunk.js.LICENSE.txt": "/samerlagha/chuk-norris/static/js/2.072f30cc.chunk.js.LICENSE.txt",
+    "static/media/chuk.600ef7d3.png": "/samerlagha/chuk-norris/static/media/chuk.600ef7d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2553245.js",
+    "static/js/2.072f30cc.chunk.js",
+    "static/css/main.6526c35d.chunk.css",
+    "static/js/main.cac1779e.chunk.js"
+  ]
+}
